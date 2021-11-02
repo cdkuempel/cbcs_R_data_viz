@@ -646,6 +646,7 @@ p+add_phylopic(lizard_image, alpha = 1, x = 375, y = 50, ysize = 25) +
   theme_light()
 ```
 
+Note that you can also load in ['IAN symbol library'](https://twitter.com/F_J_Heather/status/1455333432523849730/photo/1) graphics and use them in R plots
 
 ### Apply what we've learned to something new! 
 
